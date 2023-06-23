@@ -22,8 +22,8 @@ title: Jake Wu # the main title
 
 tagline: PR Manager at Donenr Music # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  Expert in Music Industry for 10 years with a focus on good marketing strategies and sourcing solutions. Permanent promoter for Chinese indie music. Unless otherwise noted, the views expressed on these pages are mine alone and not those of my employer. Thanks for stopping by. - Jake Wu
+description: >- Jake Wu Blogs about Music Industry and Chinese indie music.# used by seo meta and the atom feed
+  
 
 # fill in the protocol & hostname for your site, e.g., 'https://jakewqj.github.io'
 url: "https://jakewqj.github.io"
@@ -77,10 +77,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://cdn.jsdelivr.net
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://jakewqj.github.io/assets/GIITPROPIC-300.jpg
+avatar: /gh/jakewqj/blog-static-assets@main/assets/img/favicon_avatar/GIITPROPIC-300.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true

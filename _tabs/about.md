@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![Desktop View](/gh/jakewqj/blog-static-assets@main/assets/img/music-millenium-portland.jpg){: width="667" height="1000" .w-50 .right}
 ```Music nerd. Dumpling and sticky rice lover. A bad guitar player, a good diaper sniffer. A husband, a father. I have a cat called Lychee. ```
 
 I started my career as an editor for one of the best-selling music instrument magazines in China, the `Modern Player Magazine` based in Beijing. 
