@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: https://jakewqj.github.io
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/GIITPROPIC-300.jpg
+avatar: /assets/GIITPROPIC-300.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
