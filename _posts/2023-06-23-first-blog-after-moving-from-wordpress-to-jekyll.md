@@ -1,5 +1,5 @@
 ---
-title: First Post After Moving from WordPress to Jekyll + GitHub Pages
+title: Moving from WordPress to Jekyll + GitHub Pages
 author: Jake Wu
 date: 2023-06-23 12:17:00 +0800
 categories: [Blogging]
@@ -20,8 +20,12 @@ I set up this blog to Jekyll and GitHub Pages, and the process has turned out to
 I have wanted to give [Hexo](https://hexo.io) a try, after several days' testing and having found [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), I decided go with Jekyll finally. 
 
 
-## Here are the main purpose of my blog
-1. Documentation for my writings and thoughts
-2. Presentation for my expertise
+## Main purpose of my blog
+ 
+1. Documentation for my writings, field recordings, and thoughts
+2. Presentation for my expertise in Music Industry
 3. Promotion for the indie music I love in China
+
+For the next couple months I will just keep blogging for the pure fun of writing in [`Markdown`](https://daringfireball.net/projects/markdown/). 
+
 
