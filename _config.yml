@@ -20,19 +20,19 @@ timezone:
 
 title: Jake Wu # the main title
 
-tagline: PR Manager at [Donenr Music](https://www.donnermusic.com) # it will display as the sub-title
+tagline: PR Manager at Donenr Music # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Expert in Music Industry for 10 years with a focus on good marketing strategies and sourcing solutions. Permanent promoter for Chinese indie music.
+  Expert in Music Industry for 10 years with a focus on good marketing strategies and sourcing solutions. Permanent promoter for Chinese indie music. Unless otherwise noted, the views expressed on these pages are mine alone and not those of my employer. Thanks for stopping by. - Jake Wu
 
 # fill in the protocol & hostname for your site, e.g., 'https://jakewqj.github.io'
 url: "https://jakewqj.github.io"
 
 github:
-  username: github_jakewqj # change to your github username
+  username: jakewqj # change to your github username
 
 twitter:
-  jjgensto: twitter_jjgensto # change to your twitter username
+  jjgensto: jjgensto # change to your twitter username
 
 social:
   # Change to your full name.
