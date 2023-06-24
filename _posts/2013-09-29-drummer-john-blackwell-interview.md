@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Interview with Drummer John Blackwell Jr. : I live, eat and breathe with drum.
+title: Interview with Drummer John Blackwell Jr.
 date: 2013-09-29 01:22
-author: jakewqj
+author: Jake Wu
 comments: true
 categories: [Interview]
-tags: [现代乐手 modern player mag]
+tags: [现代乐手 modern player mag,prince,zildjian]
 pin: true
 ---
 <a href="http://jakewqj.files.wordpress.com/2015/04/john-blackwell-jr-jakewu.jpg"><img class=" wp-image-124 alignleft" title="john  blackwell jr-jakewu" src="http://jakewqj.files.wordpress.com/2015/04/john-blackwell-jr-jakewu.jpg" alt="" width="429" height="343" /></a>
@@ -16,13 +16,12 @@ pin: true
 时间：20130518
 采访/文：杰佬
 
-原文刊载于现代乐手《鼓&amp;贝司》2013年6月刊
+原文刊载于现代乐手《鼓&贝司》2013年6月刊
 
-“If you want to make any money in this business, play in the pocket.”
-
+"If you want to make any money in this business, play in the pocket."
+"I live, eat and breathe with drum."
 ——John Blackwell Sr.
 
-&nbsp;
 
 用现代乐手语录的方式来称呼他的话，他的名字叫“强黑”。John Blackwell Jr. 是一名真正的律动大师，和音乐全才Prince 的合作至今长达13年之久。他的父亲，John Blackwell Sr. ，对小约翰的影响极深。他曾经对小强黑说：“如果你以后希望靠打鼓作为职业养活自己，那么就得把律动练好。”
 
