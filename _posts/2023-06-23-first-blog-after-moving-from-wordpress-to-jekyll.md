@@ -28,4 +28,10 @@ I have wanted to give [Hexo](https://hexo.io) a try, after several days' testing
 
 For the next couple months I will just keep blogging for the pure fun of writing in [`Markdown`](https://daringfireball.net/projects/markdown/). 
 
+## Open Sources I am using
+Jekyll
+Chirpy Jekll Theme
+[jsDelivr Open Source CDN](https://www.jsdelivr.com/)
+
+
 
