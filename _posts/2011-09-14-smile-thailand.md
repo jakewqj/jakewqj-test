@@ -7,6 +7,7 @@ comments: true
 categories: [Publication]
 tags: [遨游乐,travelog,thailand]
 render_with_liquid: false
+published: false
 ---
 最近的广州的天空总是黑压压的，从办公室窗外望去，似极日本导演清水崇的恐怖电影里的镜头，无处不在的幽灵把你团团困住，那股怨气，让人无法呼吸（这和坐地铁没什么两样）。
 
