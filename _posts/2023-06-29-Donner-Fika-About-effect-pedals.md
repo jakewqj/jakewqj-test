@@ -5,18 +5,19 @@ date: 2023-06-29 01:22
 author: JakeWu
 comments: true
 categories: [Donner Fika]
-tags: [Donner,effect pedals,joyo]
+tags: [donner,effect pedals,joyo]
 pin: false
 published: true
 ---
 
-Fika people today：
-Terry / 李奕琪，Iced Americano 
-Tim / 古兆聪，Iced Americano
-Wahming / 梁玮明，Iced Espresso
-Jake / 吴启杰， Iced Americano
+### Fika people today：
+- Terry / 李奕琪，Iced Americano 
+- Tim / 古兆聪，Iced Americano
+- Wahming / 梁玮明，Iced Espresso
+- Jake / 吴启杰， Iced Americano
 
-Place: Five Coffee, Liwan, Guangzhou, China
+### Place: 
+- Five Coffee, Liwan, Guangzhou, China
 
 >“今日啡？”
 >“啡咯。”
