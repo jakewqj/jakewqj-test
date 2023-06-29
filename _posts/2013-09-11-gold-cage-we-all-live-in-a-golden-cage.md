@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Gold Cage 乐队：我们都困在一个金色的里
+title: Golden Cage 乐队：我们都困在一个金色的里
 date: 2013-09-11 00:40
 author: Jake Wu
 comments: true
 categories: [Interview]
 tags: [indie,chinese band]
-pin: true
+pin: false
 ---
 香港曾经有一支独立乐队叫False Alarm，他们有一首歌叫“Golden Cage”，歌词里表达了城市人的光鲜外表下却处处都有着不可避免的束缚，现代的人们看似有着很多的选择，殊不知却渐渐被困在一个金色的牢笼里。广州乐队Golden Cage 的取名灵感便是来自于此。
 

@@ -2,10 +2,10 @@
 layout: post
 title: Donner Fika 20230628 - About effect pedal
 date: 2023-06-29 01:22
-author: Jake Wu
+author: JakeWu
 comments: true
-categories: [Interview]
-tags: [Donner,Donner Fika,]
+categories: [Donner Fika]
+tags: [Donner,effect pedals]
 pin: false
 published: false
 ---

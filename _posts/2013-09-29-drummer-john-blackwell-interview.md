@@ -6,7 +6,7 @@ author: Jake Wu
 comments: true
 categories: [Interview]
 tags: [现代乐手 modern player mag,prince,zildjian]
-pin: true
+pin: false
 ---
 <a href="http://jakewqj.files.wordpress.com/2015/04/john-blackwell-jr-jakewu.jpg"><img class=" wp-image-124 alignleft" title="john  blackwell jr-jakewu" src="http://jakewqj.files.wordpress.com/2015/04/john-blackwell-jr-jakewu.jpg" alt="" width="429" height="343" /></a>
 
