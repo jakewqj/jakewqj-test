@@ -2,7 +2,7 @@
 layout: post
 title: Golden Cage 乐队：我们都困在一个金色的里
 date: 2013-09-11 00:40
-author: Jake Wu
+author: JakeWu
 comments: true
 categories: [Interview]
 tags: [indie,chinese band]
